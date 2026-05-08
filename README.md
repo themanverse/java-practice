@@ -42,7 +42,50 @@ Projects include:
 - Continuously upload and improve projects
 
 ---
+# OOP Practice in Java
 
+This folder contains my Object-Oriented Programming practice programs in Java.
+
+The goal of these exercises is to strengthen my understanding of:
+- Classes and Objects
+- Constructors
+- Methods
+- Object Interaction
+- State Change Between Objects
+- Basic OOP Design Thinking
+
+---
+
+## Programs Included
+
+### DriverCar
+A simple program where a Driver interacts with a Car object.
+
+### WeaponPlayer
+A Player uses a Weapon object to fight.
+
+### GamerConsole
+A Gamer interacts with a Gaming Console object.
+
+### UserHealth
+A HealthPotion object increases the health of a User object.
+
+### CustomerRestaurant
+A Restaurant processes orders and changes the Customer wallet balance.
+
+---
+
+## Learning Progression
+
+These programs represent my step-by-step OOP learning journey:
+- Starting from basic class interaction
+- Moving towards real-world object collaboration
+- Understanding how one object can modify another object's state
+
+---
+
+Language Used:
+- Java
 # Technologies Used
 
 - Java
