@@ -17,7 +17,7 @@ Projects include:
 
 ---
 
-# Topics Practiced
+### Topics Practiced
 
 - Loops
 - Conditional Logic
@@ -33,7 +33,7 @@ Projects include:
 
 ---
 
-# Goals
+### Goals
 
 - Strengthen Java fundamentals
 - Improve problem-solving skills
@@ -42,7 +42,7 @@ Projects include:
 - Continuously upload and improve projects
 
 ---
-# OOP Practice in Java
+## OOP Practice in Java
 
 This folder contains my Object-Oriented Programming practice programs in Java.
 
@@ -56,26 +56,26 @@ The goal of these exercises is to strengthen my understanding of:
 
 ---
 
-## Programs Included
+### Programs Included
 
-### DriverCar
+#### DriverCar
 A simple program where a Driver interacts with a Car object.
 
-### WeaponPlayer
+#### WeaponPlayer
 A Player uses a Weapon object to fight.
 
-### GamerConsole
+#### GamerConsole
 A Gamer interacts with a Gaming Console object.
 
-### UserHealth
+#### UserHealth
 A HealthPotion object increases the health of a User object.
 
-### CustomerRestaurant
+#### CustomerRestaurant
 A Restaurant processes orders and changes the Customer wallet balance.
 
 ---
 
-## Learning Progression
+### Learning Progression
 
 These programs represent my step-by-step OOP learning journey:
 - Starting from basic class interaction
